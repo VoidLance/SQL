@@ -62,7 +62,7 @@ The implementation and schema are documented in
 
 ### Run a SQL example directly
 
-SQLite can execute any of the self-contained `.sql` scripts. For example:
+SQLite can execute the SQLite-compatible `.sql` scripts. For example:
 
 ```bash
 sqlite3 /tmp/movies.db < "SQLite Data Analysis Practice/movies.sql"
